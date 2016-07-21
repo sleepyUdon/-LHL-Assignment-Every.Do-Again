@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "DBEBA49FFE6D354A7908EF1A61096B0BBADFC292",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "DBEBA49FFE6D354A7908EF1A61096B0BBADFC292" : 0,
+    "9F7CC8580B708AB49ED1184EBF6BF00FC103F59D" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "3E2D07ED-C068-4794-BF67-DFA19BE1EC7D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "DBEBA49FFE6D354A7908EF1A61096B0BBADFC292" : "Objective-C\/",
+    "9F7CC8580B708AB49ED1184EBF6BF00FC103F59D" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Every.Do it Again2",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Every.Do it Again\/Every.Do it Again2.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "ssh:\/\/github.com\/sleepyUdon\/LighthouseLab",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9F7CC8580B708AB49ED1184EBF6BF00FC103F59D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:sleepyUdon\/Lighthouse-Lab.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DBEBA49FFE6D354A7908EF1A61096B0BBADFC292"
+    }
+  ]
+}
